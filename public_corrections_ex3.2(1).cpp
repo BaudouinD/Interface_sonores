@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string_view>
 
-#include <portaudio.h>
+#include <../portaudio/include/portaudio.h>
 
 static const constexpr double fs = 44100.;
 
