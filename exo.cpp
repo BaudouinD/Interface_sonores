@@ -1,5 +1,5 @@
 #define RTMIDI17_HEADER_ONLY 1
-#include <../rtmidi17/reader.hpp>
+#include <../RtMidi17/reader.hpp>
 #include <iostream>
 #include <fstream>
 
